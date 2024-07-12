@@ -8,5 +8,7 @@ public class Setstudent
 		 StudentBean sb = new StudentBean();
 		 sb.setSname("Alok Senapati");	
 		 sb.setSnum(720576);
+		 sb.setSmail("aloksenapati45@gmail.com");
+		 sb.setSid("Alok1234");
 		 }
 }
